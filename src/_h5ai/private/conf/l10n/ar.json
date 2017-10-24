@@ -1,0 +1,23 @@
+/* only here as a reference, these values are the hardcoded defaults */
+{
+    "lang": "Arabic",
+
+    "dateFormat": "السنه-شهر-يوم ساعه:دقيقه",
+    "details": "تفاصيل",
+    "download": "تنزيل",
+    "empty": "خالي",
+    "files": "ملفات",
+    "filter": "تصفيه",
+    "folders": "مجلدات",
+    "grid": "شبكي",
+    "icons": "رموز",
+    "language": "اللغه",
+    "lastModified": "أخر تعديل",
+    "name": "الاسم",
+    "noMatch": "لا يوجد تطابق",
+    "parentDirectory": "المجلد الاعلى",
+    "search": "بحث",
+    "size": "حجم",
+    "tree": "شجري",
+    "view": "مشاهده"
+}
